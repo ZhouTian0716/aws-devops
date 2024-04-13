@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <p>piple line demo</p>
+      <p>test from zt mac pro ssh</p>
     </div>
   );
 }
